@@ -4,7 +4,7 @@ import "jspdf-autotable";
 import * as XLSX from "xlsx";
 
 const ENDPOINT =
-  "https://script.google.com/macros/s/AKfycbyHD8R9umA4T9XTlRjdhzjTuuC0hRvULhRSWiVgL_I7Ds_12fZkZQU0E39Sd3vgblww/exec";
+  "https://script.google.com/macros/s/AKfycbz3SMpYzulLWpyGZeoTpm9KRO214wOpG4xUM4b2ztnC3DpBrmK6URvGrgS_17QnjvZF/exec";
 
 interface Attendance {
   id: number;
